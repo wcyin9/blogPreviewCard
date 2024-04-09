@@ -93,4 +93,5 @@ hi:hover {
 footer {
     position: absolute;
     bottom: 10px;
+	font-size: 12px;
 }
