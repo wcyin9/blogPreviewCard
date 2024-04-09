@@ -79,6 +79,12 @@ article {
 	font-size: 16px;
 }
 
+main:hover {
+	cursor: pointer;
+	box-shadow: 16px 16px 0 #000;
+	transition: ease-in-out 0.2s;
+}
+
 h1:hover {
 	color: #F4D04E;
 	cursor: pointer;
