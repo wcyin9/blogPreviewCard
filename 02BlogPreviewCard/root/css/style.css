@@ -79,15 +79,18 @@ article {
 	font-size: 16px;
 }
 
-@media screen and (min-width: 385px) {
-	main:hover {
-		cursor: pointer;
-		box-shadow: 16px 16px 0 #000;
-		transition: ease-in-out 0.2s;
-	}
+main:hover {
+	cursor: pointer;
+	box-shadow: 16px 16px 0 #000;
+	transition: ease-in-out 0.2s;
+}
 	
-	main:hover > h1 {
-		color: #F4D04E;
-		cursor: pointer;
-	}
+hi:hover {
+	color: #F4D04E;
+	cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
 }
