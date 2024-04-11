@@ -85,7 +85,7 @@ main:hover {
 	transition: ease-in-out 0.2s;
 }
 	
-h1:hover {
+main:hover h1 {
 	color: #F4D04E;
 	cursor: pointer;
 }
